@@ -1,0 +1,20 @@
+There are: 5 warriors
+Warrior: Jim, weapon: Glamdring, 42
+Warrior: Lancelot, weapon: Naegling, 15
+Warrior: Arthur, weapon: Excalibur, 15
+Warrior: Torvalds, weapon: Narsil, 20
+Warrior: Gates, weapon: Orcrist, 8
+Arthur battles Lancelot
+Mutual Annihilation: Arthur and Lancelot die at each other's hands
+Jim battles Lancelot
+He's dead, Jim
+Torvalds battles Gates
+Torvalds defeats Gates
+Gates battles Lancelot
+Oh, NO! They're both dead! Yuck!
+There are: 5 warriors
+Warrior: Jim, weapon: Glamdring, 42
+Warrior: Lancelot, weapon: Naegling, 0
+Warrior: Arthur, weapon: Excalibur, 0
+Warrior: Torvalds, weapon: Narsil, 12
+Warrior: Gates, weapon: Orcrist, 0
